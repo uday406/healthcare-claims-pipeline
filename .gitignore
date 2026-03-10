@@ -1,0 +1,13 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Environment files
+.env
+
+# Database files
+*.db
